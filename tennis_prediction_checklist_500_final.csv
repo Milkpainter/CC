@@ -1,0 +1,16 @@
+ID,Category,Component,Accessibility,Real_Time_Available,Data_Source,Evidence_Based
+C001,Match Statistics,First serve percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C002,Match Statistics,Second serve percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C003,Match Statistics,Service games won percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C004,Match Statistics,Break points saved percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C005,Match Statistics,Break points converted percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C006,Match Statistics,Total points won percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C007,Match Statistics,Service points won percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C008,Match Statistics,Return points won percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C009,Match Statistics,Net points won percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C010,Match Statistics,Winners per match (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C011,Match Statistics,Unforced errors per match (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C012,Match Statistics,Ace count per match (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C013,Match Statistics,Double fault count per match (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C014,Match Statistics,Rally length average (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C015,Match Statistics,Break points faced per match (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
