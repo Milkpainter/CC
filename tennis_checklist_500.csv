@@ -1,0 +1,4 @@
+ID,Category,Component,Accessibility,Real_Time_Available,Data_Source,Evidence_Based
+C001,Match Statistics,First serve percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C002,Match Statistics,Second serve percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
+C003,Match Statistics,Service games won percentage (last 10 matches),Publicly Available,Yes,Official ATP/WTA Statistics,Yes
